@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Hilt</string>
+    <string name="app_name">Hilt Cats</string>
+    <string name="show_another">Show another</string>
 </resources>
